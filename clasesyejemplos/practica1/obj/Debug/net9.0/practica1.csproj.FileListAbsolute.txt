@@ -1,0 +1,15 @@
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\bin\Debug\net9.0\practica1.exe
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\bin\Debug\net9.0\practica1.deps.json
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\bin\Debug\net9.0\practica1.runtimeconfig.json
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\bin\Debug\net9.0\practica1.dll
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\bin\Debug\net9.0\practica1.pdb
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.AssemblyInfoInputs.cache
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.AssemblyInfo.cs
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.csproj.CoreCompileInputs.cache
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.sourcelink.json
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.dll
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\refint\practica1.dll
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.pdb
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\practica1.genruntimeconfig.cache
+C:\Users\juandiego\Desktop\ejemplos_practicas_c-\clasesyejemplos\practica1\obj\Debug\net9.0\ref\practica1.dll
