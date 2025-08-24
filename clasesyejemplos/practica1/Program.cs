@@ -6,7 +6,9 @@ Libros libro1 = new Libros() { nombre = "el mito de sisifo", editorial = "pengui
 libro.Add(libro1);
 foreach (var i in libro)
 {
-    Console.WriteLine(i.nombre, i.editorial);
+    Console.WriteLine(i.nombre);
+    Console.WriteLine(i.editorial);
+    
 }
 public class Personas
 {
