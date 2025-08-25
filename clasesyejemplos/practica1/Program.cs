@@ -10,7 +10,6 @@ foreach (var i in libro)
 {
     Console.WriteLine(i.nombre);
     Console.WriteLine(i.editorial);
-    
 }
 public class Personas
 {
