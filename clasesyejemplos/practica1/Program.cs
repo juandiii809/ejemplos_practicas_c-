@@ -3,7 +3,9 @@
 Personas persona = new Personas() { id = 1, altura = 1.73m, cedula = 1212323, nombre = "juan" };
 List<Libros> libro = new List<Libros>();
 Libros libro1 = new Libros() { nombre = "el mito de sisifo", editorial = "penguin" };
+Libros libro2 = new Libros() { nombre = "edipo rey", editorial = "penguin clasicos" };
 libro.Add(libro1);
+libro.Add(libro2);
 foreach (var i in libro)
 {
     Console.WriteLine(i.nombre);
